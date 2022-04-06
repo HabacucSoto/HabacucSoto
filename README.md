@@ -9,5 +9,5 @@ const me = {
       testing: 'Jest',
       design: 'Figma'
   }
-};
+}
 ```
