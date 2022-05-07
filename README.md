@@ -2,6 +2,8 @@
 
 I'm a Mexican student 
 
+[![Habacuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabacucSoto)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>
     <a href='https://linkedin.com/in/habacucsoto/' target='_blank'>
         <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-black?logo=LinkedIn&style=flat-square'>
