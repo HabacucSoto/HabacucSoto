@@ -4,7 +4,11 @@ I'm a Mexican student
 
 ![Habacuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabacucSoto&show_icons=true&theme=tokyonight)
 
-![Habacuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabacucSoto&show_icons=true&theme=synthwave)
+![Habacuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabacucSoto&show_icons=true&theme=chartreuse-dark)
+
+![Habacuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabacucSoto&show_icons=true&theme=highcontrast)
+
+![Habacuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabacucSoto&show_icons=true&theme=radical)
 
 
 
