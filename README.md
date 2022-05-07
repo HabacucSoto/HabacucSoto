@@ -1,4 +1,7 @@
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://visitor-badge.glitch.me/badge?page_id=HabacucSoto.HabacucSoto&left_color=dark&right_color=blue" alt=""></img>
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <p align="right">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=HabacucSoto.HabacucSoto&left_color=dark&right_color=blue" alt=""></img>
+</p>
+
 
 I'm a Mexican student 
 
