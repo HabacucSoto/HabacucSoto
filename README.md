@@ -2,15 +2,11 @@
 
 I'm a Mexican student 
 
-[![Habacuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabacucSoto)](https://github.com/anuraghazra/github-readme-stats)
+![Habacuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabacucSoto&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=commits,prs)
+![Habacuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabacucSoto&show_icons=true&theme=synthwave)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
 <p>
     <a href='https://linkedin.com/in/habacucsoto/' target='_blank'>
