@@ -2,10 +2,11 @@
 
 I'm a Mexican student 
 
-![Habacuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabacucSoto&show_icons=true&theme=chartreuse-dark)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=HabacucSoto&show_icons=true&theme=chartreuse-dark" alt="Habacuc's stats"></img>
+</p>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HabacucSoto)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
