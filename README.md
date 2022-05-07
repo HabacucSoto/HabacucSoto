@@ -6,7 +6,7 @@ I'm a Mexican student
     <img src="https://github-readme-stats.vercel.app/api?username=HabacucSoto&show_icons=true&theme=chartreuse-dark" alt="Habacuc's stats"></img>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=HabacucSoto.HabacucSoto)
+![](https://visitor-badge.glitch.me/badge?page_id=HabacucSoto.HabacucSoto&left_color=dark&right_color=green)
 
 
 
