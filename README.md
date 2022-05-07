@@ -1,3 +1,7 @@
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I'm a Mexican student 
+
 <p>
     <a href='https://linkedin.com/in/habacucsoto/' target='_blank'>
         <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-black?logo=LinkedIn&style=flat-square'>
