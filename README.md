@@ -5,6 +5,9 @@ I'm a Mexican student
 ![Habacuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabacucSoto&show_icons=true&theme=chartreuse-dark)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabacucSoto)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <p>
     <a href='https://linkedin.com/in/habacucsoto/' target='_blank'>
