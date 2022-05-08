@@ -1,12 +1,11 @@
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# What's up?! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=HabacucSoto.HabacucSoto&left_color=dark&right_color=blue" alt=""></img>
 
 
-I'm a Mexican student 
+I'm a web dev from Mexico 
 
 <p align="center">
-dsffsdfsdfsdfsd
     <img src="https://github-readme-stats.vercel.app/api?username=HabacucSoto&show_icons=true&theme=chartreuse-dark" alt="Habacuc's stats"></img>
 </p>
 
@@ -25,7 +24,10 @@ dsffsdfsdfsdfsd
         <img alt='Twitter' src='https://img.shields.io/badge/Twitter-black?logo=Twitter&style=flat-square'>
     </a>
     <a href='https://www.instagram.com/habacuc.soto/' target='_blank'>
-        <img alt='Twitter' src='https://img.shields.io/badge/Instagram-black?logo=Instagram&style=flat-square'>
+        <img alt='Instagram' src='https://img.shields.io/badge/Instagram-black?logo=Instagram&style=flat-square'>
+    </a>
+    <a href='https://www.instagram.com/habacuc.soto/'>
+        <img alt='Visitor' src='https://visitor-badge.glitch.me/badge?page_id=HabacucSoto.HabacucSoto&left_color=dark&right_color=blue'>
     </a>
 </p>
 
