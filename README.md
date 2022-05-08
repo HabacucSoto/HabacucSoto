@@ -1,6 +1,7 @@
 # What's up?! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a web dev from Mexico 
+Looking for a job <img src="https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif" width="25px">
+
 
 <p align="center">
     <a href='https://linkedin.com/in/habacucsoto/' target='_blank'>
