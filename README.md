@@ -26,7 +26,7 @@ I'm a web dev from Mexico
     <a href='https://www.instagram.com/habacuc.soto/' target='_blank'>
         <img alt='Instagram' src='https://img.shields.io/badge/Instagram-black?logo=Instagram&style=flat-square'>
     </a>
-    <a href='https://www.instagram.com/habacuc.soto/'>
+    <a href='#'>
         <img alt='Visitor' src='https://visitor-badge.glitch.me/badge?page_id=HabacucSoto.HabacucSoto&left_color=dark&right_color=blue'>
     </a>
 </p>
