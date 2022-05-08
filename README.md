@@ -1,6 +1,6 @@
 # What's up?! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Looking for a job <img src="https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif" width="25px">
+Looking for a job <img src="https://media.giphy.com/media/IlUsVgryM5nW4sZeOI/giphy.gif" width="25px">
 
 
 <p align="center">
