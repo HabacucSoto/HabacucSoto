@@ -2,7 +2,7 @@
 
 I'm a web dev from Mexico 
 
-<p>
+<p align="center">
     <a href='https://linkedin.com/in/habacucsoto/' target='_blank'>
         <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-black?logo=LinkedIn&style=flat-square'>
     </a>
